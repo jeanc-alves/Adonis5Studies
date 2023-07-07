@@ -1,0 +1,19 @@
+# Node modules
+node_modules
+
+# Adonis directory for storing tmp files
+tmp
+
+# Environment variables, never commit this file
+.env
+
+*.log
+# The development sqlite file
+database/*.sqlite
+
+
+#uploads
+uploads
+
+docker-compose.yml
+tmp

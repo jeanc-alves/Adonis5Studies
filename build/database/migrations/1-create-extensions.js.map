@@ -1,0 +1,1 @@
+{"version":3,"file":"1-create-extensions.js","sourceRoot":"","sources":["../../../database/migrations/1-create-extensions.ts"],"names":[],"mappings":";;;;;AAAA,uFAAiD;AACjD,MAAqB,UAAW,SAAQ,gBAAU;IACzC,KAAK,CAAC,EAAE;QACb,MAAM,IAAI,CAAC,EAAE,CAAC,QAAQ,CAAC,6CAA6C,CAAC,CAAC,SAAS,CAAA;IACjF,CAAC;IAEM,KAAK,CAAC,IAAI,KAAI,CAAC;CACvB;AAND,6BAMC"}

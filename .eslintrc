@@ -1,0 +1,4 @@
+{
+  "extends": [],
+  "rules": { "camelcase": "eslint-disable-next-line @typescript-eslint/naming-convention" }
+}
